@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋,
+
+I am Rali and I am working as Software Engineer on projects based on Python/Django and JavaScript/React.
+
+* 🔍Looking for a Full-stack position with React/Django.
+* 💻 Current working on React based application and building personal Django based applications.
+
+
 
 <!--
 **RalitsaTerzieva/ralitsaterzieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
