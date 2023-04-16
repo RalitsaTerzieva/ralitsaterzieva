@@ -5,6 +5,8 @@ I am Rali and I am working as a Software Engineer on projects based on Python/Dj
 * 🔍Looking for a Full-stack position with React/Django.
 * 💻 Currently working on React based application and building personal Django based applications.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
