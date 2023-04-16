@@ -1,9 +1,9 @@
 ### Hi there 👋,
 
-I am Rali and I am working as Software Engineer on projects based on Python/Django and JavaScript/React.
+I am Rali and I am working as a Software Engineer on projects based on Python/Django and JavaScript/React.
 
 * 🔍Looking for a Full-stack position with React/Django.
-* 💻 Current working on React based application and building personal Django based applications.
+* 💻 Currently working on React based application and building personal Django based applications.
 
 
 
