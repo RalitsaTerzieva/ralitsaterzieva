@@ -7,6 +7,8 @@ I am Rali and I am working as a Software Engineer on projects based on Python/Dj
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact)](https://github.com/RalitsaTerzieva)
 
+![Rali's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalitsaTerzivea&show_icons=true&theme=transparent)
+
 
 
 
