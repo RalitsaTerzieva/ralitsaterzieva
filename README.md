@@ -10,7 +10,7 @@ I am Rali and I am working as a Software Engineer on projects based on Python/Dj
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact" />
 </a>
 <a href="https://github.com/RalitsaTerzieva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RalitsaTerzieva&show_icons=true&theme=transparent&bg_color=#fafa6e,#c4ec74" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RalitsaTerzieva&show_icons=true&theme=transparent&bg_color=rgb(250, 250, 110)/>
 </a>
 
 
