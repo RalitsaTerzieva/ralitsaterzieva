@@ -5,9 +5,6 @@ I am Rali and I am working as a Software Engineer on projects based on Python/Dj
 * 🔍Looking for a Full-stack position with React/Django.
 * 💻 Currently working on React based application and building personal Django based applications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact)](https://github.com/RalitsaTerzieva)
-
-[![Rali's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalitsaTerzieva&show_icons=true&theme=transparent)
 
 <a href="https://github.com/RalitsaTerzieva">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact" />
