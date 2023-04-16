@@ -10,7 +10,7 @@ I am Rali and I am working as a Software Engineer on projects based on Python/Dj
 [![Rali's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalitsaTerzieva&show_icons=true&theme=transparent)
 
 <a href="https://github.com/RalitsaTerzieva">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact" />
 </a>
 <a href="https://github.com/RalitsaTerzieva">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RalitsaTerzieva&show_icons=true&theme=transparent" />
