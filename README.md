@@ -4,6 +4,7 @@ I am Rali and I am working as a Software Engineer on projects based on Python/Dj
 
 * 🔍Looking for a Full-stack position with React/Django or only Python/Django.
 * 💻 Currently working on React based application and building personal Django based applications.
+* 📕 Huge books fan.
 
 
 <a href="https://github.com/RalitsaTerzieva">
