@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-👋 Hi, I'm Rali, a Software Engineer 🧑‍💻 working on projects based on Python/Django 🐍 and JavaScript/React ⚛️.
+👋 Hi, I'm Rali, a Software Engineer 🧑‍💻 working on projects based on Python/Django 🐍 and JavaScript/React ⚛️ and React Native.
 
 - 🔍 Currently seeking a position where I can leverage my skills in Python/Django.
 
