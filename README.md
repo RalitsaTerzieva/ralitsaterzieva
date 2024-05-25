@@ -4,7 +4,7 @@
 
 - 🔍 Currently seeking a position where I can leverage my skills in Python/Django.
 
-- 💻 I am currently building personal projects with Django and Django Rest framework.
+- 💻 I am currently building personal projects with React Native.
 
 - 📚 Apart from coding, I am a huge fan of books and enjoy diving into them in my free time.
 
