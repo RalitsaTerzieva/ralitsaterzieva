@@ -4,7 +4,7 @@
 
 - 🔍 Currently seeking a position where I can leverage my skills in Python/Django and React/React Native.
 
-- 💻 I am currently building personal projects with React Native/React/NextJs.
+- 💻 I am currently building personal projects with React Native/React/NextJs/GraphQl.
 
 - 📚 Apart from coding, I am a huge fan of books and enjoy diving into them in my free time.
 
