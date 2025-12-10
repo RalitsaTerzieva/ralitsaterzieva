@@ -1,5 +1,5 @@
 👋 Hi, 
-I'm Rali, a Software Engineer 🧑‍💻 passionate about working on projects with Python/Django 🐍 and JavaScript/React/React Native ⚛️.
+I'm Rali, a Senior Software Engineer 🧑‍💻 passionate about working on projects with Python/Django 🐍 and JavaScript/React/React Native ⚛️.
 
 🔍 Currently seeking a position where I can leverage my skills in React/React Native and/or Python/Django while expanding my knowledge in AWS cloud services.
 
