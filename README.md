@@ -3,7 +3,7 @@ I'm Rali, a Senior Software Engineer 🧑‍💻 passionate about working on pro
 
 🔍 Currently seeking a position where I can leverage my skills in React/React Native and/or Python/Django while expanding my knowledge in AWS cloud services.
 
-💻 I am currently building personal projects with React Native/React/Next.js/GraphQL and enhancing my expertise in AWS to create scalable and efficient cloud solutions.
+💻 I am currently building personal projects with Python/FastApi/Docker and enhancing my expertise in AWS to create scalable and efficient cloud solutions.
 
 📚 Apart from coding, I am a huge fan of books and enjoy diving into them in my free time.
 
