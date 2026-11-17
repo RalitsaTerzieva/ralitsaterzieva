@@ -1,12 +1,15 @@
 👋 Hi, 
-I'm Rali, a Senior Software Engineer 🧑‍💻 passionate about working on projects with Python/Django 🐍 and JavaScript/React/React Native ⚛️.
+I'm a Senior Software Engineer passionate about designing and building scalable, reliable, and user-friendly applications.
 
-🔍 Currently seeking a position where I can leverage my skills in React/React Native and/or Python/Django while expanding my knowledge in AWS cloud services.
+💻 Core technologies: Python, Django, FastAPI, JavaScript, React, and React Native.
 
-💻 I am currently building personal projects with Python/FastApi/Docker and enhancing my expertise in AWS to create scalable and efficient cloud solutions.
+☁️ Cloud & DevOps: Exploring AWS, Docker, cloud architecture, and scalable application development.
 
-📚 Apart from coding, I am a huge fan of books and enjoy diving into them in my free time.
+🤖 AI & Machine Learning: Currently expanding my knowledge of Natural Language Processing (NLP), Large Language Models (LLMs), LangChain, and AI-powered applications.
 
+🚀 Currently building: Personal projects focused on backend development, modern application architecture, cloud technologies, and integrating AI capabilities into applications.
+
+📚 Beyond coding: I'm an avid reader who enjoys exploring new ideas, continuous learning, and discovering new technologies.
 
 <a href="https://github.com/RalitsaTerzieva">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalitsaTerzieva&layout=compact" />
